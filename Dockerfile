@@ -1,1 +1,1 @@
-FROM scratch
+FROM mysql:5.5
